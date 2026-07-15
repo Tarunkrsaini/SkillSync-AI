@@ -9,8 +9,6 @@ ENV/
 env/
 .env
 
-# Local databases (don't push user data to GitHub)
-database/*.db
 
 # Streamlit logs and cache
 .streamlit/
